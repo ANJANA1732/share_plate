@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76bed0f8.css",
+    "main.js": "/static/js/main.10581a7a.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/food (1).png": "/static/media/food (1).8cadf16da20fcf7b70b0.png",
+    "static/media/img12.png": "/static/media/img12.2bedb189b728b6b0e233.png",
+    "static/media/DelthaRegular-JR027.ttf": "/static/media/DelthaRegular-JR027.3744447122839b18da63.ttf",
+    "static/media/hilland.ttf": "/static/media/hilland.e817110c38f00ce2f854.ttf",
+    "static/media/img 11.png": "/static/media/img 11.58dc2b2740d8f31900ee.png",
+    "static/media/Stay Wildy.ttf": "/static/media/Stay Wildy.21915d58e010b8728410.ttf",
+    "index.html": "/index.html",
+    "main.76bed0f8.css.map": "/static/css/main.76bed0f8.css.map",
+    "main.10581a7a.js.map": "/static/js/main.10581a7a.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76bed0f8.css",
+    "static/js/main.10581a7a.js"
+  ]
+}
