@@ -1,3 +1,6 @@
+#ER Diagram
+Er Diagram explains the work flow of this project.
+ ![im0](img0.png)
  ![im1](img1.png)
 # SharePlate
 
