@@ -11,11 +11,11 @@ SharePlate is a web platform designed to connect hotels with surplus food to com
   
 ### Hotel Registration*:
 - Hotels can register on SharePlate to donate surplus food.
-![im3](img3.png)
+ ![im3](img3.png)
 
  ![im4](img4.png)
 
-![im5](img5.png)
+ ![im5](img5.png)
 - 
 
 - *Volunteer Registration*: Individuals can sign up to assist with food distribution thereby supporting the SharePlate mission.
