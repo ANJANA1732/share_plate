@@ -7,6 +7,9 @@ import About from './components/About';
 import Donor from './components/Donor';
 import Dsignup from './components/Dsignup';
 import Dsignin from './components/Dsignin';
+import Supplier from './components/Supplier';
+import Ssignup from './components/Ssignup';
+import Ssignin from './components/Ssignin';
 import Contact from './components/Contact';
 function App() {
   return (
@@ -20,6 +23,9 @@ function App() {
           <Route path="donor" element={<Donor />} />
           <Route path="dsignup" element={<Dsignup />} />
           <Route path="dsignin" element={<Dsignin />} />
+          <Route path="supplier" element={<Supplier />} />
+          <Route path="ssignup" element={<Ssignup />} />
+          <Route path="ssignin" element={<Ssignin />} />
 
         </Route>
 

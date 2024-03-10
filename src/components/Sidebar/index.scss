@@ -84,6 +84,12 @@
             }
         }
 
+        a.supplier-link {
+            &:after {
+                content: 'Supplier'
+            }
+        }
+
         a.contact-link {
             &:after {
                 content: 'Contact'

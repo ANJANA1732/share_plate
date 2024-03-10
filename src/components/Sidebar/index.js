@@ -2,7 +2,7 @@ import './index.scss'
 
 import { NavLink } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHome, faUser, faEnvelope,faHandHoldingHand } from '@fortawesome/free-solid-svg-icons';
+import { faHome, faUser, faEnvelope,faHandHoldingHand, faTruckFast } from '@fortawesome/free-solid-svg-icons';
 
 const Sidebar = () => 
 (
@@ -20,6 +20,12 @@ const Sidebar = () =>
 
             <NavLink excat="true" activeclassname="active" className="donor-link" to="/donor">
                 <FontAwesomeIcon icon={faHandHoldingHand} color="green" />
+
+            </NavLink>
+
+            <NavLink excat="true" activeclassname="active" className="supplier-link" to="/supplier">
+                <FontAwesomeIcon icon={faTruckFast} color="green" />
+                
 
             </NavLink>
 

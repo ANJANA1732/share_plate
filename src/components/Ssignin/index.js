@@ -3,7 +3,7 @@ import emailjs from 'emailjs-com';
 import './index.scss';
 import axios  from "axios";
 
-const Dsignin = () => {
+const Ssignin = () => {
   
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
@@ -72,4 +72,4 @@ const Dsignin = () => {
   );
 };
 
-export default Dsignin;
+export default Ssignin;
